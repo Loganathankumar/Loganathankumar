@@ -71,8 +71,7 @@ Enthusiastic and highly accomplished Data Engineer with 5.10 years of experience
 - **SQL (Basic) Certificate - [Link](https://www.hackerrank.com/certificates/2bd7320058d2)**
 - **SQL (Intermediate) Certificate - [Link](https://www.hackerrank.com/certificates/83263976df4f)**
 ##
-
-
+If you’re looking for someone who can build ETL Pipelines that actually work in production, and align them with business goals, I’d be happy to connect.
 
 
 

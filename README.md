@@ -1,11 +1,15 @@
 # Senior Data Engineer based in India
 
-Hi 👋 I’m Loganathan, an Azure Data Engineer with 5+ years of experience turning raw data into reliable, scalable, and business-ready insights.
+Hi 👋 I’m Loganathan, an Azure Data Engineer with 5.9+ years of experience turning raw data into reliable, scalable, and business-ready insights.
 
 I thrive at the intersection of data engineering, cloud, and automation — whether it’s:
+
 ⚡ Migrating legacy systems to Azure with near-zero downtime
+
 ⚡ Designing robust ETL/ELT pipelines that process 1TB+ data daily
+
 ⚡ Building logging & monitoring frameworks that save teams hours in debugging
+
 ⚡ Or enabling GDPR-compliant solutions trusted by global banks
 
 I’ve had the privilege of working with TD Bank (USA) and ABN AMRO (Netherlands), solving real-world data challenges across finance — from compliance to high-volume analytics. My mission is simple: make data pipelines faster, smarter, and more reliable, so businesses can make decisions with confidence.
@@ -59,6 +63,7 @@ Enthusiastic and highly accomplished Data Engineer with 5.10 years of experience
 - **AZ – 900 Azure Fundamentals, Microsoft - [Link](https://learn.microsoft.com/en-us/users/loganathanbabu-2078/credentials/52b487bdf3ce6ed3?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
 - **Databricks Certified Data Engineer Associate - [Link](https://credentials.databricks.com/ef2dff34-13b6-4316-9dbc-a90e77b4d9e4#acc.uDirTbfq)**
 - **Databricks Certified Data Engineer Professional - [Link](https://credentials.databricks.com/be789928-2db2-4dde-8d12-e221d5a6ce1c#acc.HsF0SAeR)**
+- **Databricks Certified Machine Learning Associate - [Link](https://credentials.databricks.com/61db61e1-07c4-40d2-8fe8-81df6983783d#acc.9mN6Mv3Z)**
 - **Partner Training - Financial Services Industry Specialization for Gen AI & LLM - [Link](https://credentials.databricks.com/a673f555-fe19-4085-9685-c9a820fc6c4b#acc.R9K3fPIQ)**
 - **AI Agent Fundamentals - [Link](https://credentials.databricks.com/56fa137b-de03-4bc6-8d61-c3f516349227#acc.apnJt24D)**
 - **Generative AI Fundamentals - [Link](https://credentials.databricks.com/1f6919a6-cc84-4aea-9c89-61c98c759164#acc.K8QhkpBC)**
@@ -70,7 +75,14 @@ Enthusiastic and highly accomplished Data Engineer with 5.10 years of experience
 - **OCR + Text Detection - [Link](https://www.credential.net/a9e65349-2cf9-4771-878b-eafd68975d26#acc.MHQzpdDI)**
 - **SQL (Basic) Certificate - [Link](https://www.hackerrank.com/certificates/2bd7320058d2)**
 - **SQL (Intermediate) Certificate - [Link](https://www.hackerrank.com/certificates/83263976df4f)**
+
 ##
+## My Blogs
+- [Snowflake Caching: Different types of cache](https://medium.com/@loganathankumar444/snowflake-caching-different-types-of-cache-48eeb896b832)
+- [Mastering Spark Sorting: A Practical Guide to sort, orderBy, and sortWithinPartitions](https://medium.com/@loganathankumar444/mastering-spark-sorting-a-practical-guide-to-sort-orderby-and-sortwithinpartitions-f336f1c3332d)
+- [Fixing SqlDWConnectorException: When writing from Databricks to Azure Synapse via JDBC connector](https://medium.com/@loganathankumar444/fixing-sqldwconnectorexception-when-writing-from-databricks-to-azure-synapse-via-jdbc-connector-ffd6b01c51a5)
+##
+
 If you’re looking for someone who can build ETL Pipelines that actually work in production, and align them with business goals, I’d be happy to connect.
 
 

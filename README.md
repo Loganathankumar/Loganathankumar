@@ -2,6 +2,10 @@
 
 Hi 👋 I’m Loganathan, an Azure Data Engineer with 5.9+ years of experience turning raw data into reliable, scalable, and business-ready insights.
 
+<img src="Profile.png" alt="Profile banner" height="350" width="650">
+
+
+##
 I thrive at the intersection of data engineering, cloud, and automation — whether it’s:
 
 ⚡ Migrating legacy systems to Azure with near-zero downtime

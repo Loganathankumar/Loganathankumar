@@ -4,7 +4,10 @@ Hi 👋 I’m Loganathan, an Azure Data Engineer with 5.9+ years of experience t
 
 **[LinkedIn](https://www.linkedin.com/in/loganathan-c-5396b8189/) | [Medium-Blogs](https://medium.com/me/stories?tab=posts-published) | [Overall Certifications](https://credentials.databricks.com/profile/loganathanc789359/wallet)**
 
-Download my Resume for Recruiters: [CV](https://github.com/Loganathankumar/Loganathankumar/blob/main/github-resume.pdf)
+<a href="https://github.com/Loganathankumar/Loganathankumar/blob/main/github-resume.pdf" download>
+  Download my Resume
+</a>
+
 
 <img src="Profile.png" alt="Profile banner" height="350" width="650">
 

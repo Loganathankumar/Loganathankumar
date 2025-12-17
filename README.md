@@ -2,7 +2,7 @@
 
 Hi 👋 I’m Loganathan, an Azure Data Engineer with 5.9+ years of experience turning raw data into reliable, scalable, and business-ready insights.
 
-**[LinkedIn](https://www.linkedin.com/in/loganathan-c-5396b8189/) | [Medium-Blogs](https://medium.com/me/stories?tab=posts-published) | [Overall Certifications](https://credentials.databricks.com/profile/loganathanc789359/wallet)**
+**[LinkedIn](https://www.linkedin.com/in/loganathan-c-5396b8189/) | [Medium-Blogs](https://medium.com/@loganathankumar444) | [Overall Certifications](https://credentials.databricks.com/profile/loganathanc789359/wallet)**
 
 <a href="https://github.com/Loganathankumar/Loganathankumar/blob/main/github-resume.pdf" download>
   Download my Resume
